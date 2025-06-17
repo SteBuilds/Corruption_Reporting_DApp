@@ -78,7 +78,7 @@ This repository contains the source code for a prototype of a decentralized appl
 
 **Clone repository**  
 
-   git clone https://github.com/SteBuilds/Corruption_Reporting_DApp.git
+git clone https://github.com/SteBuilds/Corruption_Reporting_DApp.git
 
 
 **Install Dependencies**
@@ -87,17 +87,18 @@ npm install
 
 
 **Configure Environment**
-
-**Create a .env in the project root:**
+- Create a .env in the project root:**
 
 INFURA_PROJECT_ID=your_infura_id
+
 ETH_RPC_URL=https://goerli.infura.io/v3/${INFURA_PROJECT_ID}
+
 IPFS_API_URL=https://ipfs.infura.io:5001
+
 CONTRACT_ADDRESS=0xYourContractAddress
 
 **Generate RSA Key Pairs**
-
-**On first run, the server will auto‑generate two RSA key pairs and store them under ./rsa-keys/**
+- On first run, the server will auto‑generate two RSA key pairs and store them under ./Clés RSA/**
 
 node app.js
 
