@@ -1,6 +1,6 @@
 # Corruption Reporting DApp
 
-This repository contains the source code for a prototype of a decentralized application (DApp) developed as part of a Bachelor’s thesis. The DApp allows individuals to securely report acts of corruption or other illicit activities by uploading evidence and metadata, storing them on IPFS, and anchoring access records on the Ethereum blockchain. This work was submitted on **4 September 2023** as my Bachelor’s thesis and was awarded **“Most Innovative Bachelor Thesis”** of its cohort by the **Economics & Services** domain.
+This repository contains the source code for a prototype of a decentralized application (DApp) developed as part of a Bachelor’s thesis. The DApp allows individuals to securely report acts of corruption or other illicit activities by uploading evidence and metadata, storing them on IPFS, and anchoring access records on the Ethereum blockchain. This work was submitted on **4 September 2023** as my Bachelor’s thesis and was awarded **“Most Innovative Bachelor Thesis”** prize by the **Economics & Services** domain.
 
 
 ## Table of Contents
@@ -24,7 +24,7 @@ This repository contains the source code for a prototype of a decentralized appl
 
 ## Application Architecture
 
-![Application Architecture](./docs/architecture-diagram.png)
+![Application Architecture](./Architecture.png)
 
 1. **User Submission**  
    - Users enter names of suspects, victims, witnesses, etc.  
