@@ -1,9 +1,9 @@
-# Corruption Reporting DApp
+# 🕵️‍♀️ Corruption Reporting DApp
 
 This repository contains the source code for a prototype of a decentralized application (DApp) developed as part of a Bachelor’s thesis. The DApp allows individuals to securely report acts of corruption or other illicit activities by uploading evidence and metadata, storing them on IPFS, and anchoring access records on the Ethereum blockchain. This work was submitted on **4 September 2023** as my Bachelor’s thesis and was awarded **“Most Innovative Bachelor Thesis”** prize by the **Economics & Services** domain.
 
 
-## Table of Contents
+## 📑 Table of Contents
 
 1. [Application Architecture](#application-architecture)  
 2. [Technologies Used](#technologies-used)  
@@ -22,7 +22,7 @@ This repository contains the source code for a prototype of a decentralized appl
 
 ---
 
-## Application Architecture
+## 🏛️ Application Architecture
 
 ![Application Architecture](./Architecture.png)
 
@@ -55,7 +55,7 @@ This repository contains the source code for a prototype of a decentralized appl
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 ### Front‑end
 - **Core**: HTML, CSS, JavaScript  
@@ -74,19 +74,19 @@ This repository contains the source code for a prototype of a decentralized appl
 
 ---
 
-🛠️ ## Installation & Setup
+## 🛠️ Installation & Setup
 
 **Clone repository**  
 
    git clone https://github.com/SteBuilds/Corruption_Reporting_DApp.git
 
 
-## Install Dependencies
+**Install Dependencies**
 
 npm install
 
 
-## Configure Environment
+**Configure Environment**
 
 **Create a .env in the project root:**
 
@@ -95,7 +95,7 @@ ETH_RPC_URL=https://goerli.infura.io/v3/${INFURA_PROJECT_ID}
 IPFS_API_URL=https://ipfs.infura.io:5001
 CONTRACT_ADDRESS=0xYourContractAddress
 
-## Generate RSA Key Pairs
+**Generate RSA Key Pairs**
 
 **On first run, the server will auto‑generate two RSA key pairs and store them under ./rsa-keys/**
 
@@ -103,7 +103,7 @@ node app.js
 
 ---
 
-## How It Works
+## 🔄 How It Works
 
 ### 1. Upload & ZIP Creation
 - Users fill in names, description, and select media files.  
@@ -142,7 +142,7 @@ node app.js
 
 ---
 
-🗂 ## Directory Structure
+## 🗂 Directory Structure
 
 ## Application/
 *Main application*
@@ -193,7 +193,7 @@ ApplicationDecrypt/
 
 ---
 
-🧾 ## License
+## 🧾 License
 
 This project is licensed under the MIT License. See LICENSE for details.
 
