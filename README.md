@@ -181,13 +181,6 @@ Application/
 ApplicationDecrypt/
 ├── Decrypted/
 │   ├── images/
-│   │   ├── pexels-alex-andrews-816608.jpg
-│   │   ├── pexels-eberhard-grossgasteiger-162421.jpg
-│   │   ├── pexels-george-despirıs-748626.jpg
-│   │   ├── pexels-hristo-fidanov-1252890.jpg
-│   │   ├── pexels-pixabay-531321.jpg
-│   │   ├── Sasuke.jpg
-│   │   ├── thumb-1920-563119 (1).jpg
 │   │   └── thumb-1920-563119.jpg
 │   ├── decrypted_file.zip
 │   └── description.txt
