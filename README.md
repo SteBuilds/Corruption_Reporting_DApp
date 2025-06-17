@@ -74,7 +74,7 @@ This repository contains the source code for a prototype of a decentralized appl
 
 ---
 
-## Installation & Setup
+🛠️ ## Installation & Setup
 
 **Clone repository**  
 
@@ -142,7 +142,7 @@ node app.js
 
 ---
 
-## Directory Structure
+🗂 ## Directory Structure
 
 ## Application/
 *Main application*
@@ -200,7 +200,7 @@ ApplicationDecrypt/
 
 ---
 
-## License
+🧾 ## License
 
 This project is licensed under the MIT License. See LICENSE for details.
 
