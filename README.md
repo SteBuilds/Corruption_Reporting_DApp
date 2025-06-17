@@ -78,8 +78,8 @@ This repository contains the source code for a prototype of a decentralized appl
 
 **Clone repository**  
 
-   git clone https://github.com/yourusername/corruption-reporting-dapp.git
-   cd corruption-reporting-dapp
+   git clone https://github.com/SteBuilds/Corruption_Reporting_DApp.git
+
 
 ## Install Dependencies
 
